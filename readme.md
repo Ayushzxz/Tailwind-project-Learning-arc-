@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Project
+This is the project my Tailwind (Learning arc)
 
 ![Alt text](/img/screen.png?raw=true)
 
